@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace aspnetcoreAuth;
 
-[Authorize(Roles = "user")]
+[Authorize(Roles = "user,admin")]
 [Route("v1/[controller]_[action]")]      // ← 这里声明了属性路由前缀
 [ApiExplorerSettings(GroupName = "v1")]
 public class BaseApi: Controller

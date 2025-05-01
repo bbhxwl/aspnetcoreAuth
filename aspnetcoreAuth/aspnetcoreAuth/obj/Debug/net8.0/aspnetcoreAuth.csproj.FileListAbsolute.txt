@@ -45,3 +45,4 @@
 /Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/bin/Debug/net8.0/Scrutor.dll
 /Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/bin/Debug/net8.0/Swashbuckle.AspNetCore.Filters.dll
 /Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/bin/Debug/net8.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll
+/Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/obj/Debug/net8.0/aspnetcoreAuth.sourcelink.json
