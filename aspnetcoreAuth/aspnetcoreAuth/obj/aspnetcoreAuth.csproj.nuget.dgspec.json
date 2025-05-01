@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth.csproj": {}
+  },
+  "projects": {
+    "/Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth.csproj",
+        "projectName": "aspnetcoreAuth",
+        "projectPath": "/Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth.csproj",
+        "packagesPath": "/Users/xuzhibin/.nuget/packages/",
+        "outputPath": "/Users/xuzhibin/Desktop/Project/aspnetcoreAuth/aspnetcoreAuth/aspnetcoreAuth/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xuzhibin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[8.9.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.9.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
